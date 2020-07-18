@@ -1,15 +1,12 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs",
-    "pages/hongbao",
-    "pages/hongbao/hongbao",
-    "pages/mycard/mycard"
+    "pages/mycard/mycard",
+    "pages/hongbao/hongbao"   
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "我的智能名片",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
