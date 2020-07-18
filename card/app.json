@@ -1,8 +1,5 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs",
-    "pages/hongbao",
     "pages/hongbao/hongbao",
     "pages/mycard/mycard"
   ],
