@@ -100,5 +100,7 @@
             <view class="editer">编辑</view>
             <view class="share">分享门票</view>
         </view>
+        <view class="pic1"><image src='../../images/ewm.png' /></view>
+        <view class="pic2"><image src='../../images/envelope.png' /></view>
     </view>
 </view>

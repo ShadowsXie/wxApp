@@ -2,6 +2,7 @@
 .card-wrapper{
     padding: 15px;
     background-color: #f5fafe;
+    position: relative;
 }
 
 .user-info{
@@ -294,4 +295,26 @@
 .bottom{
     margin-top: 10px;
     display: flex;
+}
+
+.pic1 image{
+    height: 70rpx;
+    width: 70rpx;
+}
+
+.pic1{
+    position: absolute;
+    top: 573rpx;
+    right: 55rpx;
+}
+
+.pic2{
+    position: absolute;
+    top: 680rpx;
+    right: 37rpx;
+}
+
+.pic2 image{
+    height: 105rpx;
+    width: 115rpx;
 }
